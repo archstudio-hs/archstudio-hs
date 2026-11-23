@@ -94,7 +94,7 @@ For questions, feedback, or research collaboration, feel free to reach out via e
 
 - ✉️ **Email:** [arhyunsoo0130@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=arhyunsoo0130@gmail.com)
 - 💬 **GitHub:** [@archstudio-hs](https://github.com/archstudio-hs)
-- ✦ **Leave a message:** [GitHub Issues](https://github.com/archstudio-hs/hskim-arch/issues/new)
+- ✦ **Leave a message:** [GitHub Issues](https://github.com/archstudio-hs/archstudio-hs/issues/new)
 
 <br>
 
