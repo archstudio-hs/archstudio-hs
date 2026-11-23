@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/archstudio-hs?tab=stars">
+    🏺 <b>ArchaeoTech</b> · Archaeology & Digital Tools
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ARCHAEOLOGY-4f74b3?style=flat-square" alt="Archaeology"/>
   <img src="https://img.shields.io/badge/KILNS_%26_CERAMICS-c8432f?style=flat-square" alt="Kilns and Ceramics"/>
   <img src="https://img.shields.io/badge/DIGITAL_ARCHAEOLOGY-d4a82a?style=flat-square" alt="Digital Archaeology"/>
