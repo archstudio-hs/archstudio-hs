@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/archstudio-hs?tab=stars">
-    🏺 <b>ArchaeoTech</b> · Archaeology & Digital Tools
+    <img src="./assets/archaeotech.svg" alt="ArchaeoTech · Archaeology & Digital Tools" width="520"/>
   </a>
 </p>
 
