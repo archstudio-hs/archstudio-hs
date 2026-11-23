@@ -3,7 +3,15 @@
   <img src="./assets/banner.svg" alt="Kim Hyun Soo · archstudio-hs" width="100%"/>
 </p>
 
+### ✦ Hello, I'm Kim Hyun Soo!
 
+I'm an archaeology researcher interested in ancient East Asian ceramics, pottery production techniques, and experimental archaeology.
+
+Alongside my archaeological research, I explore how computational methods and digital technologies can support the analysis of archaeological materials.
+
+I also enjoy developing practical digital tools to make repetitive and time-consuming research tasks simpler, more efficient, and accessible.
+
+<br>
 
 
 
@@ -38,15 +46,7 @@
 
 <br>
 
-### ✦ Hello, I'm Kim Hyun Soo!
 
-I'm an archaeology researcher interested in ancient East Asian ceramics, pottery production techniques, and experimental archaeology.
-
-Alongside my archaeological research, I explore how computational methods and digital technologies can support the analysis of archaeological materials.
-
-I also enjoy developing practical digital tools to make repetitive and time-consuming research tasks simpler, more efficient, and accessible.
-
-<br>
 ---
 
 ### 🧺 Tools & Technologies
