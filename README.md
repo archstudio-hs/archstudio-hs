@@ -3,13 +3,9 @@
   <img src="./assets/banner.svg" alt="Kim Hyun Soo · archstudio-hs" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/archstudio-hs?tab=stars">
-    🏺Archaeology & Digital Tools
-  </a>
-</p>
 
-<br>
+
+
 
 ### ✦ Hello, I'm Kim Hyun Soo!
 
