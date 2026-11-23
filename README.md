@@ -37,7 +37,11 @@ I also enjoy developing practical digital tools to make repetitive and time-cons
 - 🔥 **가마와 소성기술** — 토기의 제작 과정과 소성 환경에 따른 색조 변화를 실험과 분석을 통해 살펴봅니다.
 - 🏛️ **박물관과 문화유산** — 전시와 학예 업무를 경험했으며, 연구 성과를 다양한 방식으로 전달하는 데 관심이 있습니다.
 - 🌱 **디지털 고고학** — 고고학적 분석과 컴퓨터 기술을 결합하고, 연구 현장에서 활용할 수 있는 실용적인 도구를 개발하고 있습니다.
-
+<p align="center">
+  <a href="https://github.com/archstudio-hs?tab=stars">
+    <img src="./assets/archaeotech.svg" alt="ArchaeoTech · Archaeology & Digital Tools" width="520"/>
+  </a>
+</p>
 <br>
 
 ### ✦ はじめまして、キム・ヒョンスです！
