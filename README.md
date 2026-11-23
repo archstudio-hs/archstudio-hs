@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/archstudio-hs?tab=stars">
-    🏺** Archaeology & Digital Tools**
+    🏺Archaeology & Digital Tools
   </a>
 </p>
 
