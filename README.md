@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/ARCHAEOLOGY-4f74b3?style=flat-square" alt="Archaeology"/>
-  <img src="https://img.shields.io/badge/KILNS_%26_CERAMICS-c8432f?style=flat-square" alt="Kilns and Ceramics"/>
-  <img src="https://img.shields.io/badge/DIGITAL_ARCHAEOLOGY-d4a82a?style=flat-square" alt="Digital Archaeology"/>
-</p>
+
 <p align="center">
   <img src="./assets/banner.svg" alt="Kim Hyun Soo · archstudio-hs" width="100%"/>
 </p>
@@ -12,7 +8,7 @@
     <img src="./assets/archaeotech-button.svg" alt="ArchaeoTech · Archaeology & Digital Tools" width="260"/>
   </a>
 </p>
-<br>
+
 
 ### ✦ Hello, I'm Kim Hyun Soo!
 
